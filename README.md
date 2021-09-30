@@ -1,3 +1,11 @@
+Hello!
+
+:student: I'm an Master student in Computer Science at UEM.
+
+:boat: I'm currently developing a autonomous boat.
+:deciduous_tree: My hobby is Bonsai! So I developed a bonsai style classification using artificial intelligence you can check it [HERE](./BonsaiStyleClassification)!
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNakahata&show_icons=true&theme=merko" />
 </a>
