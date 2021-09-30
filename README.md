@@ -2,7 +2,9 @@ Hello!
 
 :student: I'm an Master student in Computer Science at UEM.
 
-:boat: I'm currently developing a autonomous boat.
+:1234: I'm working in the area of computational optimization.
+
+:boat: I'm currently developing an autonomous boat.
 
 :deciduous_tree: My hobby is Bonsai! So I developed a bonsai style classification using artificial intelligence you can check it [HERE][dataset]!
 
