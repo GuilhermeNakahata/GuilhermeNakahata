@@ -3,7 +3,9 @@ Hello!
 :student: I'm an Master student in Computer Science at UEM.
 
 :boat: I'm currently developing a autonomous boat.
-:deciduous_tree: My hobby is Bonsai! So I developed a bonsai style classification using artificial intelligence you can check it [HERE](./BonsaiStyleClassification)!
+:deciduous_tree: My hobby is Bonsai! So I developed a bonsai style classification using artificial intelligence you can check it [HERE][dataset]!
+
+[dataset]: https://sites.google.com/view/bonsaistyleclassification
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
