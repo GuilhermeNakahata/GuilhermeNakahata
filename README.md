@@ -11,6 +11,8 @@ Hello!
 [dataset]: https://sites.google.com/view/bonsaistyleclassification
 
 
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNakahata&show_icons=true&theme=merko" />
 </a>
