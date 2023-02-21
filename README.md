@@ -1,6 +1,6 @@
 Hello!
 
-:student: I'm a Master student in Computer Science at UEM.
+:student: I'm a PhD student in Computer Science at UEM.
 
 :1234: I'm working in the area of computational optimization.
 
